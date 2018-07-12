@@ -55,13 +55,13 @@ Click “OK”
 
 ![alt text](img/project.png "Example text of what needs to be changed.")
 
-### Configure  “Source Code Management”
+### Configure Source Code Management 
 In the configuration screen, navigate to the “Source Code Management” section, and configure the following entries:
 
-* Repository URL: <Enter the URL for your forked GitHub repo>
-* Credentials: <Select your previously configured GitHub Credentials>
+* Repository URL: Enter the URL for your forked GitHub repo
+* Credentials: Select your previously configured GitHub Credentials
 
-Click OK/APPLY
+Click `OK/APPLY`
 
 ![alt text](img/SCM.png "Example text of what needs to be changed.")
   
