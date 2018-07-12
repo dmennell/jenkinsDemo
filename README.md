@@ -22,9 +22,27 @@ Build New “Freeform Project”
 BUILD!
 
 
+
+
+
 ### Modify Application Deployment File
 Modify the “conf/cd-demo-app.js” in the GitHub Repository that you forked for the demo.  The simplest way to do it is to navigate in the browser into the file, click the pencil (upper right) to edit, and the make the appropriate changes.  Don’t forget to “Commit Changes” (bottom) when you are done.  This can be done either before or during the demo based on desire, time, and confidence level.
 ![alt text](img/edit.png "Example text of what needs to be changed.")
+
+
+### Add Credentials
+This section describes how to input credentials for GitHub and Docker Hub.  this assumes that you have forked mesosphere/cd-demo.
+
+Credentials
+->System
+  ->Global Credentials (Unrestricted)
+    ->Add Credentials
+          
+You will need to add two sets of credentials:
+* GitHub
+* DockerHub
+
+![alt text](img/creds.png "Example of adding credentials to Jenkins.")
 
 
 
