@@ -19,6 +19,10 @@ BUILD!
 ### Modify Application Deployment File
 Modify the “conf/cd-demo-app.js” in the GitHub Repository that you forked for the demo.  The simplest way to do it is to navigate in the browser into the file, click the pencil (upper right) to edit, and the make the appropriate changes.  Don’t forget to “Commit Changes” (bottom) when you are done.  This can be done either before or during the demo based on desire, time, and confidence level.
 
+Inline-style: 
+![alt text](https://github.com/dmennell/jenkinsDemo/img/edit.png "Example text of what needs to be changed.")
+
+
 
 
 
