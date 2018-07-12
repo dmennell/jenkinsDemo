@@ -57,6 +57,7 @@ Click “OK”
 
 ### Configure  “Source Code Management”
 In the configuration screen, navigate to the “Source Code Management” section, and configure the following entries:
+
 * Repository URL: <Enter the URL for your forked GitHub repo>
 * Credentials: <Select your previously configured GitHub Credentials>
 
